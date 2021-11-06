@@ -2,4 +2,4 @@
 
 Sunrin Internet Highscool - Software Department <br/>
 Game Developer <br/>
-Unity, C#, C++, Java, OpenGL <br/>
+Unity, C#, C++, Java, OpenGL, Web <br/>
