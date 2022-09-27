@@ -9,7 +9,7 @@ Unity, C#, C++, Java, OpenGL, Web <br/>
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-#FFCA28?style=for-the-badge&logo=firebases&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-#FFCA28?style=for-the-badge&logo=firebase&logoColor=%2361DAFB)
 
 
 
