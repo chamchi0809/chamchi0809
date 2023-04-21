@@ -1,7 +1,7 @@
 ### WELCOME to my github!!! 👋
 
 Sunrin Internet Highscool - Software Department <br/>
-Learning Web Frontend <br/>
+Learning Web Frontend and Game Development <br/>
 
 #### Frameworks and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
