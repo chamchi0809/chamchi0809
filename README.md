@@ -1,4 +1,4 @@
-### WELCOME to my github!!! 👋
+### Cat Lover 😻
 
 Sunrin Internet Highscool - Software Department <br/>
 Learning Web Frontend and Game Development <br/>
