@@ -1,7 +1,5 @@
-### Cat Lover 😻
-
-Sunrin Internet Highscool - Software Department <br/>
-Learning Web Frontend and Game Development <br/>
+Junior Vibe Coder & Web/Game Developer <br/>
+<a href="https://chamchi0809.github.io/">Website</a>
 <a href="https://seoshi1234.itch.io/">Itch.io</a> <br/>
 
 #### Frameworks and Libraries
