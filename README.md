@@ -2,6 +2,12 @@ Junior Vibe Coder & Web/Game Developer <br/>
 <a href="https://chamchi0809.github.io/">Website</a>
 <a href="https://seoshi1234.itch.io/">Itch.io</a> <br/>
 
+#### Interested in...
+- Web Frontend Engineering
+- Web UI Authoring
+- Web Game (or Web 3D)
+- Desktop Games (Unity)
+
 #### Frameworks and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
