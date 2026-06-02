@@ -6,7 +6,7 @@ Junior Vibe Coder & Web/Game Developer <br/>
 - Web Frontend Engineering
 - Web UI Authoring
 - Web Game (or Web 3D)
-- Desktop Games (Unity)
+- Desktop Games (Unity, Godot)
 
 #### Frameworks and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
